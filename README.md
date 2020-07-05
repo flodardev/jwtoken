@@ -17,4 +17,4 @@ Express server, RESTful api, allows users to creat and login with JWT
 
 ## Acknowledgments
 
-* Part of The Complete 2020 Web Development Bootcamp by London App Brewery
+* https://www.youtube.com/watch?v=2jqok-WgelI&list=PLDyQo7g0_nsUIbQhYNVlM0u7kb-6ou4MQ&index=2&t=0s
